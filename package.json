@@ -1,6 +1,6 @@
 {
-  "name": "jssip",
-  "title": "JsSIP",
+  "name": "jssip-patched",
+  "title": "JsSIP-patched",
   "description": "the Javascript SIP library",
   "version": "3.0.7",
   "homepage": "http://jssip.net",
@@ -21,10 +21,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/versatica/JsSIP.git"
+    "url": "https://github.com/FNCxPro/JsSIP.git"
   },
   "bugs": {
-    "url": "https://github.com/versatica/JsSIP/issues"
+    "url": "https://github.com/FNCxPro/JsSIP/issues"
   },
   "dependencies": {
     "debug": "^2.6.3",
